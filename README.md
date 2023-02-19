@@ -31,7 +31,7 @@ looking faward for more challenges from [frontend mentor](https://www.frontendme
 
 ### Continued development
 
-Looking forward for more challenged that get my brain cracked.
+Looking forward for more challenging project that get my brain cracked.
 
 ## Author
 
